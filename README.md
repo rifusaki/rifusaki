@@ -1,4 +1,5 @@
-- ¿Acabaré la carreraa? ¿O la carrera acabará conmigo?
+- ¿Acabaré la carrera? ¿O la carrera acabará conmigo?
+- 🏳️‍⚧️ 🇨🇴 💚
 
 <!---
 jgarciamej/jgarciamej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
