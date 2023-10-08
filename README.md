@@ -1,3 +1,3 @@
 - ¿Acabaré la carrera? ¿O la carrera acabará conmigo?
+- mostly not, but sometimes yes 
 - 🏳️‍⚧️ 🇨🇴 💚
-- no idea what im doing
