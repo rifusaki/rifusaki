@@ -1,3 +1,3 @@
-- ¿Acabaré la carrera? ¿O la carrera acabará conmigo?
-- mostly not, but sometimes yes 
-- 🏳️‍⚧️ 🇨🇴 💚
+> ¿Acabaré la carrera? ¿O la carrera acabará conmigo? — Yo
+
+🇨🇴 • Física UNAL (55%)
