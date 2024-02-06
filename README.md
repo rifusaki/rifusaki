@@ -1,3 +1,3 @@
 > ¿Acabaré la carrera? ¿O la carrera acabará conmigo? — Yo
 
-🇨🇴 • Física UNAL (55%)
+🇨🇴 • Física UNAL (59%)
