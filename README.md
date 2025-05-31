@@ -4,7 +4,7 @@
 > ¿Acabaré la carrera? ¿O la carrera acabará conmigo?
 
 - 🐾 Physics student in Universidad Nacional de Colombia, among other things.
-- ✨ Entire portfolio over a https://rifusaki.co
+- ✨ Entire portfolio over a https://rifusaki.com
 - 🌱 I’m currently learning Node.js
 
 ### Stack:
