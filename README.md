@@ -5,7 +5,6 @@
 
 - 🐾 Physics student in Universidad Nacional de Colombia, among other things.
 - ✨ Entire portfolio over a https://rifusaki.com
-- 🌱 I’m currently learning GIS
 
 ### Stack:
 #### Languages
