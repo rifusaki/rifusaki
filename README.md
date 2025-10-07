@@ -43,9 +43,8 @@
 
 ### Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rifusaki&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true) -->
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifusaki&theme=graywhite&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifusaki&exclude_repo=college&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifusaki&exclude_repo=college&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)-->
 
 <!-- ##### 💰 You can help me by Donating -->
 <!-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rifusaki) -->
