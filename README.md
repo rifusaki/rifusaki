@@ -3,7 +3,9 @@
 
 > ¿Acabaré la carrera? ¿O la carrera acabará conmigo?
 
-- 🐾 Physics student, among a couple of other things.
+- 🧩 Physics student @ UNAL
+- 📀 Data engineer @ Intwo
+- 🐾 ... among a couple of other things
 - ✨ Entire portfolio over a https://rifusaki.com
 
 ### Stack:
