@@ -3,10 +3,10 @@
 
 > ¿Acabaré la carrera? ¿O la carrera acabará conmigo?
 
-- 🧩 Physics student @ UNAL
-- 📀 Data engineer @ Intwo
-- 🐾 ... among a couple of other things
-- ✨ Entire portfolio over a https://rifusaki.com
+- 🐾 Physics student @UNAL
+- 🎨 Data engineer @Intwo
+- 📷 ... among a some other things
+- ✨ Entire portfolio @[rifusaki.com](https://rifusaki.com)
 
 ### Stack:
 #### Languages
