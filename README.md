@@ -5,7 +5,7 @@
 
 - 🐾 Physics student @UNAL
 - 🎨 Data engineer @Intwo
-- 📷 ... among a some other things
+- 📷 ... among some other things
 - ✨ Entire portfolio @[rifusaki.com](https://rifusaki.com)
 
 ### Stack:
